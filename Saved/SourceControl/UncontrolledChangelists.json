@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Runner_MAP.umap",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/IMC_RUNNER_DEFAULT.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/BP_RUNNER_CHARACTER.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/BP_RUNNER_GAME_MOD.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Junp_IA.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Animations/Running_Slide_Retargeted_Montage_Child.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Slide_IA.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/BP_Floor.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/FloorTile_Diff.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/FloorTile_EM.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/FloorTile_Nrm.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/Floor_MAt.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Left_IA.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Right_IA.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/BP_Obstacles.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/BP_Block.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Meshes/box.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Meshes/Crate_Diffuse.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Meshes/Material.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/BP_WALL.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/FloorTile.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Move_IA.uasset"
+			]
+		}
+	]
+}
