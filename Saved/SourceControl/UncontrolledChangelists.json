@@ -28,6 +28,11 @@
 				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Meshes/Material.uasset",
 				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/BP_WALL.uasset",
 				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Obstacles/FloorTile.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/HUD/GameOver_UI.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Runner_SaveGame.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/Icon_Rank.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/Texture/Icon_Trophy.uasset",
+				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/HUD/Gameplay_UI.uasset",
 				"D:/UNREAL/MyGame_Runner_Tutor/Content/Runner/BluerPrint/Move_IA.uasset"
 			]
 		}
